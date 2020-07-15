@@ -1,2 +1,2 @@
-# Pipes-Examples
+# Pipes-Examples Harold
 pipes examples in angular 
